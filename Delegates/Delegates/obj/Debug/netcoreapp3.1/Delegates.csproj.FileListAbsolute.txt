@@ -1,0 +1,27 @@
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Frog\Desktop\University\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\2 курс\1 семестр\ООП\Лабораторна робота 4\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
